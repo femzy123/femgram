@@ -1,11 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FemGram
+A picture gallery app built with React, Firebase and Framer motion.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+In the project directory, you can run: [https://femgram-37983.web.app](https://femgram-37983.web.app)
 
-### `npm start`
+### To run locally
+`Clone the repo`
+`npm install`
+`create .env.local and add your firebase config`
+`npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
